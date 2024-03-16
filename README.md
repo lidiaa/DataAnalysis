@@ -46,7 +46,7 @@ Campo: soma da quantidade vendida
 Campo: contagem do id pedido
 
 ## Insights obtidos através da análise dos dados:
-- O Estado do Rio de Janeiro é o que possui mais produtos vendidos (38.314 unidades) e também o de maior faturamento (R$ 47.85 milhões) em 724, obtendo um ticket médio de R$ 66.091,16 por pedido
+- O Estado do Rio de Janeiro é o que possui mais produtos vendidos (38.314 unidades) e também o de maior faturamento (R$ 47.85 milhões) em 724 pedidos, obtendo um ticket médio de R$ 66.091,16 por pedido
 - O mês de julho foi o de maior faturamento no ano de 2020, sendo que os clientes que mais compraram no referido mês foram Ricardo Eletro e Kabum
 - O Estado da Paraíba obteve o pior desempenho em produtos vendidos, pedidos e faturamento anual
 - O colaborador Paulo Ferreira se destaca para as vendas ao cliente Magazine Luiza, Tais Fernandes para a Casas Bahia e Lucas Souza para a Shoptime
