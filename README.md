@@ -3,7 +3,7 @@
 
 # Análise de vendas
 
-Tabela de vendas inspirada na apresentação workshop do Prof. Italo Diego Teotônio.
+Tabela de vendas inspirada no workshop do Prof. Italo Diego Teotônio.
 Disponível em: <https://www.youtube.com/watch?v=f3NZJCaF8Bw>. Acesso em 16 mar. 2024
 
 
@@ -62,4 +62,4 @@ Campo: contagem do id pedido
 |SP | R$ 27.370.000 |
 
 
-# -----------------------------------------------------------------------------------------------------------------------------------------------
+# ---------------------------------------------
