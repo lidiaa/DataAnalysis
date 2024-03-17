@@ -22,28 +22,28 @@ Alterações do tipo, conversão para Camel Case, padronização das sigla dos E
 ## Visualizações (gráficos) utilizadas:
 
 1. Gráfico de colunas clusterizado (adequado para a formação do ranking dos vendedores)
-eixo x: nome do representante (vendedor)
-eixo y: valor total das vendas
+- eixo x: nome do representante (vendedor)
+- eixo y: valor total das vendas
 
 2. Gráfico de área, que exibe de forma sistemática os valores mensais
-eixo x: mês de data pedido
-eixo y: valor total das vendas
+- eixo x: mês de data pedido
+- eixo y: valor total das vendas
 
 
 3. Cartão para a informação obter destaque
-Campo: soma do valor total das vendas
+- Campo: soma do valor total das vendas
 
 4. Gráfico de barras clusterizado (adequado para a formação do ranking dos melhores clientes)
-eixo y: nome do cliente
-eixo x: valor total das vendas
+- eixo x: valor total das vendas
+- eixo y: nome do cliente
 
 
-5. Cartão para a informação obter destaque
-Campo: soma da quantidade vendida
+5. Cartão para a informação ter destaque
+- Campo: soma da quantidade vendida
 
 
-5. Cartão para a informação obter destaque
-Campo: contagem do id pedido
+5. Cartão para a informação ter destaque
+- Campo: contagem do id pedido
 
 ## Insights obtidos através da análise dos dados:
 - O Estado do Rio de Janeiro é o que possui mais produtos vendidos (38.314 unidades) e também o de maior faturamento (R$ 47.85 milhões) em 724 pedidos, obtendo um ticket médio de R$ 66.091,16 por pedido
